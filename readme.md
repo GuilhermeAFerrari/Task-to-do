@@ -1,7 +1,7 @@
 # Tasks To Do
 
 <p align="center">
-    <a href="#aplicação-para-gerenciamento-de-um-cinema">Aplicação</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#aplicação-para-gerenciamento-de-Tasks">Aplicação</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#-tecnologias-e-frameworks">Tecnologias e Frameworks</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#executando-a-aplicação">Executando a aplicação</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -22,7 +22,7 @@ Projeto de gerenciamento de tarefas WEB usando ASP.NET CORE / .NET 6 C# MVC + EF
 ## Pré-requisitos
 - Visual Studio versão 17.0 ou superior de 2022 para compilação e execuçã - [VisualStudio](https://visualstudio.microsoft.com/pt-br/vs/community/)
 
-## 🎲 Executando a aplicação
+## Executando a aplicação
 ```bash
 # Clone este repositório ou faça o download .zip e extraia os arquivos
 $ git clone <https://github.com/GuilhermeAFerrari/Task-to-do.git>
